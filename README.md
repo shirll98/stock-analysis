@@ -8,13 +8,13 @@ This analysis will use VBA and the understanding of for loops, if-then statement
 ## Results
 The analysis suggests that majority of the companies on the list in 2017 had a positive return but TERP. In 2017 DQ was a good company to invest with a percentage of return of almost 200%! While in 2018, majority of the stocks had a negative return except for ENPH and RUN. Overall, the analysis shoes that ENPH had the most consistent return within the two years. Aside from the stock data, the refractored script took 0.5 seconds less to run than the original script. Evidently, the refractored script definitely ran more efficient than the original. 
 
-![VBA_Challenge_2017.png]
+![VBA_Challenge_2017]
 (Resources/VBA_Challenge_2017.png)
-![VBA_Challenge_2018.png]
+![VBA_Challenge_2018]
 (Resources/VBA_Challenge_2018.png)
-![All_Stocks_2017.png]
+![All_Stocks_2017]
 (Resources/All_Stocks_2017.png)
-![All_Stocks_2018.png]
+![All_Stocks_2018]
 (Resources/All_Stocks_2018.png)
 
 ## Summary
